@@ -33,5 +33,5 @@ for iz = 1:(n+m)
         vv(iz) = v2(iy);
         iy = iy + 1;
     end
-end
-end
+endfor
+endfunction
