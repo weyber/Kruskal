@@ -8,4 +8,4 @@ function [u, v, A, V, E] = Dados()
  		v(a) = x(a+1, 2);
  		A(a) = x(a+1, 3);
  	endfor
-endfunction 
+endfunction
