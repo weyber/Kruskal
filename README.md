@@ -1,6 +1,24 @@
-ÔªøAlgoritmo de Kruskal
-================
- Os dados utilizados para testes se encontra no http://algs4.cs.princeton.edu/43mst/, n√£o se encontra 
- o largeEWG.dat por ser muito grande, para utiliz√°-lo basta baixar do site
- e mudar a extens√£o de .txt para .dat, e editar a 1 linha mantendo o n√∫meros de vertices, adicionando o
- n√∫mero de arestas e o n√∫mero zero, caso contr√°rio os dados n√£o ser√£o lidos. Teste....
+Algoritmo de Kruskal
+===========================================
+
+![Alt text](/home/nerd/GitHub/Kruskal/figure1.png?raw=true "Optional Title")
+
+Algoritmo desenvolvido em `Octave`. 
+O Grafo Inicial e o ¡rvore Geradora MÌnima obtida do algoritmo de Kruskal È representado em formato de rede, 
+pela biblioteca NetworkX, que È implementada em `Python`.
+
+Configurando o projeto
+----------------------------------------
+
+1. FaÁa o download do projeto atravÈs do bot„o **Download ZIP**;
+
+
+Tecnologias utilizadas
+--------------------------------------
+
+* Sistema Operacional Lubuntu
+* Python
+* Octave
+* Shell Script
+* Biblioteca NetworkX
+* Terminal (Linha de Comando)
