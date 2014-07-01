@@ -1,8 +1,6 @@
 Algoritmo de Kruskal
 ===========================================
 
-![](https://raw.github.com/weyber/Kruskal/master/figure1.png)
-
 Algoritmo desenvolvido em `Octave`. 
 O Grafo Inicial e a Árvore Geradora Mínima obtida do algoritmo de Kruskal é desenhado em formato de rede, 
 pela biblioteca NetworkX, que é implementada em `Python`.
