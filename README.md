@@ -24,7 +24,7 @@ Tecnologias utilizadas
 
 Desenho dos Grafos (Graph drawing)
 ---------------------------------------
-`Grafo Inicial` obtido do site `http://algs4.cs.princeton.edu/43mst/`, sendo utilizado o arquivo `tinyEWG.txt`.
+`Grafo Inicial` obtido do [site](http://algs4.cs.princeton.edu/43mst/), sendo utilizado o arquivo `tinyEWG.txt`.
 
 ![](https://raw.github.com/weyber/Kruskal/master/figure1.png)
 
