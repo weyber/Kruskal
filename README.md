@@ -13,18 +13,18 @@ Configurando o projeto
    Será gerado o arquivo `MST.dat`, que é a árvore geradora mínima;
 3. Posteriormente execute o comando `./script2.sh`;
 4. Copie e cole os arquivos `tinyEWG.dat` e `MST.dat` para o diretório **NetworkGraphs/src**; 
-5. Dentro do diretório **NetworkGraphs/src** execute `./script3.sh`;
+5. Dentro do diretório **NetworkGraphs/src** execute `./script3.sh`.
 
 Tecnologias utilizadas
 --------------------------------------
 
-* Sistema Operacional Lubuntu
-* IDE Geany
-* Python
-* Octave
-* Shell Script
-* Biblioteca NetworkX
-* Terminal (Linha de Comando)
+* Sistema Operacional Lubuntu;
+* IDE Geany;
+* Python 2.7.6;
+* Octave 3.8.1;
+* Shell Script;
+* Biblioteca NetworkX;
+* Terminal (Linha de Comando).
 
 Desenho dos Grafos (Graph drawing)
 ---------------------------------------
